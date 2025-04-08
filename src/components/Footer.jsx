@@ -11,9 +11,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between">
           {/* Company Info */}
           <div className="mb-8 md:mb-">
-            <h2 className="text-xl font-bold mb-2">JewelsCo</h2>
+            <h2 className="text-xl font-bold mb-2">Spark N Stitch</h2>
             <p className="text-sm pr-4">
-              JewelsCo offers a wide range of exquisite jewelry. Explore our
+              Spark N Stitch offers a wide range of exquisite jewelry. Explore our
               latest collections and find the perfect piece for you.
             </p>
           </div>
@@ -76,7 +76,7 @@ const Footer = () => {
           <div className="md:w-1/4">
             <h3 className="text-lg font-semibold mb-2">Contact Us</h3>
             <p className="text-sm mb-2">Phone: +91 12345 67890</p>
-            <p className="text-sm mb-4">Email: support@jewelsco.com</p>
+            <p className="text-sm mb-4">Email: support@Spark N Stitch.com</p>
             <div className="flex space-x-4">
               <a
                 href="https://facebook.com"
@@ -106,7 +106,7 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="mt-8 text-center border-t border-gray-700 pt-4">
           <p className="text-sm">
-            &copy; {new Date().getFullYear()} JewelsCo. All rights reserved.
+            &copy; {new Date().getFullYear()} Spark N Stitch. All rights reserved.
           </p>
         </div>
       </div>
